@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message Shadow {
+	int32 distance = 1;
+	string mac = 2;
+	int32 time_stamp = 3;
+	int32 energy = 4;
+}

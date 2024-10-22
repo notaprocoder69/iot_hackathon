@@ -1,0 +1,10 @@
+Add shadow.proto and data.proto. Change the data point name with the data point name used by you.
+Add all the files in the certificates folder that you downloaded.
+Run all the codes in the following link except for the last code.
+Replace the last code with uploader.py .
+
+https://colab.research.google.com/drive/1kyzbc7PWbyUtmMm7weT4H2cInPZQjiUm#scrollTo=T2a5m6T2eVVk
+
+NOTE: TO be done separately for with and without encryption.
+
+
